@@ -1,0 +1,12 @@
+.sidebar {
+  display: flex; /* Enable flexbox */
+  align-items: center; /* Center elements horizontally */
+  justify-content: space-between; /* Distribute space between elements */
+  width: 250px; /* Adjust width as needed */
+  background-color: #e0f2fe; /* Lighter blue background */
+  height: 100%; /* Full viewport height */
+  padding: 20px; /* Padding for content within the sidebar */
+  border: 1px solid #ddd; /* Optional thin border */
+  border-radius: 5px; /* Rounded corners for a softer look */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
